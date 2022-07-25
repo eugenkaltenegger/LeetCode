@@ -1,3 +1,7 @@
+#!/usr/bin/env python3
+
+# Problem description: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+
 class Solution(object):
 
     def searchRange(self, nums, target):
